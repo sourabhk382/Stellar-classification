@@ -1,5 +1,5 @@
 # Stellar-classification
-                                         To Identify Giants and Dwarfs stars using Machine Learning
+                                         To Identify Giants and Dwarfs Stars using Machine Learning
 
 Introduction to star classification
 - Stellar Classification uses the spectral data of stars to categorize them into different categories. 
